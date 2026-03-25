@@ -1,0 +1,4 @@
+interface:
+  display_name: "ZHY-ShiZheng"
+  short_description: "Full Stata empirical workflow and Word-ready paper output"
+  default_prompt: "Use this skill to build or run a full empirical-paper workflow in Stata, including sample construction, descriptive statistics, correlation analysis, baseline regressions, moderation analysis, endogeneity checks, robustness tests, and Word-ready output."
